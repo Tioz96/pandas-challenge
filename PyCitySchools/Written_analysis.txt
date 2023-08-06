@@ -1,0 +1,17 @@
+# summary
+In the project we analise two csv files and create a datafre for all data,
+then we proceed to make a detail analysis based on Distric Data,
+School Data, Highest-Performing Schools (by % Overall Passing),
+Bottom Performing Schools (By % Overall Passing), Math Scores by Grade, 
+Reading Score by Grade, Scores by School Spending, Scores by School Size and 
+Scores by School Type to have a solid understand of the average for math and reading sunjects
+also to get a better understand of the budget for every school and the succesfull pass rate of student. 
+
+# Conclusion
+
+* For School Size between 1000-2000 students there are the must % Passing for each subject 
+either the Score is dosent show a big diference than school size smaller than 1000 students.
+
+* In the case of buget / spending per student we find that there are better results 
+for % Passing for each subject than for cases where the spending ranges is $645-$680,
+the must notice data in this is that the average in math score is almost 10 solid point in comparison.
